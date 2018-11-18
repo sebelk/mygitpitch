@@ -87,6 +87,8 @@ Verbose unordered list-items template.
 +++?image=template/img/spotlight.png&position=top right&size=20% auto
 @title[Title + List Fragments]
 
+
+---?color=red
 @snap[north-west]
 @color[#550000](The Key Concepts [ Step-by-Step ])
 @snapend
@@ -101,7 +103,6 @@ Verbose unordered list-items template.
 @ulend
 @snapend
 
----?color=red
 @snap[south-west template-note text-gray]
 Verbose list-item fragments template.
 @snapend
