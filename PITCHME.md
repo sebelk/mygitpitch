@@ -1,6 +1,7 @@
 # VNote 
 
 A note-taking app
+
 ---
 
 ### Features
@@ -14,7 +15,8 @@ A note-taking app
 ![Flux Explained](https://raw.githubusercontent.com/tamlok/vnote/master/screenshots/vnote.png)
 
 ---
-@snap[west text-orange snap-60]
+
+@snap[west text-orange snap-32]
 
 @ul[](false)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
