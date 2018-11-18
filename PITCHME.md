@@ -14,7 +14,7 @@ A note-taking app
 ![Flux Explained](https://raw.githubusercontent.com/tamlok/vnote/master/screenshots/vnote.png)
 
 ---
-@snap[west]
+@snap[west snap-60]
 
 @ul[](false)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
