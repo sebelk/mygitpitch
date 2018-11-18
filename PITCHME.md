@@ -101,6 +101,7 @@ Verbose unordered list-items template.
 @ulend
 @snapend
 
+---?color=red
 @snap[south-west template-note text-gray]
 Verbose list-item fragments template.
 @snapend
