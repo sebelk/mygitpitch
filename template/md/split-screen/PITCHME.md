@@ -9,7 +9,7 @@
 [The Template Docs](https://gitpitch.com/docs/the-template)
 @snapend
 
-+++?image=template/img/bg/orange.jpg&position=right&size=70% 100%
++++?image=template/img/bg/orange.jpg&position=right&size=50% 10%
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-orange span-50]
