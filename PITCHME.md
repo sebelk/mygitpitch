@@ -40,7 +40,7 @@ Topics to be covered today
 @snapend
 
 @snap[east color-black text-white span-45]
-
+---?color=lightgray
 @ol
 - Lorem ipsum dolor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
