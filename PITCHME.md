@@ -88,8 +88,7 @@ Verbose unordered list-items template.
 @title[Title + List Fragments]
 
 @snap[north-west]
-@color[#112233]
-The Key Concepts [ Step-by-Step ]
+@color[#112233](The Key Concepts [ Step-by-Step ])
 @snapend
 
 @snap[west list-content-verbose span-100]
