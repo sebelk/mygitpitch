@@ -39,7 +39,7 @@ A note-taking app
 Topics to be covered today
 @snapend
 
-@snap[east text-white span-45]
+@snap[east bacground-orange text-white span-45]
 
 @ol
 - Lorem ipsum dolor sit amet, consectetur elit
