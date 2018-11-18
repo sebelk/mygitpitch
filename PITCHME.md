@@ -32,3 +32,20 @@ A note-taking app
 ![DEVELOPER](template/img/developer.jpg)
 @snapend
 
+
+---
+
+@snap[west text-orange span-50]
+Topics to be covered today
+@snapend
+
+@snap[east text-white span-45]
+
+@ol
+- Lorem ipsum dolor sit amet, consectetur elit
+- Ut enim ad minim veniam, quis exercitation
+- Duis aute irure dolor in reprehenderit in voluptate
+@olend
+
+@snapend
+
