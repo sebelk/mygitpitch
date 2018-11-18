@@ -92,6 +92,7 @@ The Key Concepts [ Step-by-Step ]
 @snapend
 
 @snap[west list-content-verbose span-100]
+@color[#112233]
 <br>
 @ul[list-bullets-circles]
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
