@@ -26,7 +26,7 @@ A note-taking app
 @snapend
 
 
-@snap[east span-70]
+@snap[east span-20]
 ![DEVELOPER](template/img/developer.jpg)
 @snapend
 
