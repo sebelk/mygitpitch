@@ -215,7 +215,8 @@
   padding: 3px 10px;
   margin-right: 15px;
   border-radius: 3px;
-  background-color: #F26225;
+  /*background-color: #F26225;*/
+  background-color: #62F225;
   content: counter(step-counter);
 }
 
