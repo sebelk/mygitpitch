@@ -114,7 +114,7 @@ Verbose list-item fragments template.
 Topics to be covered today
 @snapend
 
-@snap[east text-red span-45]
+@snap[east text-green span-45]
 
 @ol
 - Lorem ipsum dolor sit amet, consectetur elit
