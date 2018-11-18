@@ -16,9 +16,7 @@ A note-taking app
 
 ---
 
-### List
-
-@snap[west text-orange snap-32]
+@snap[west text-brown]
 
 @ul[](false)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
