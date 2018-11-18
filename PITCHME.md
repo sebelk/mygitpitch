@@ -1,15 +1,14 @@
-# Flux 
+# VNote 
 
-An application architecture for React
+A note-taking app
+---
+
+### Features
+
+- VIM keyboards shortcuts
+- SMART preview rendering
+- Mermaid diagrams support
 
 ---
 
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
-
----
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+![Flux Explained](https://raw.githubusercontent.com/tamlok/vnote/master/screenshots/vnote.png)
